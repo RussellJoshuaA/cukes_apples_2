@@ -6,7 +6,7 @@ capabilities = {
     caps: {
         platformName: 'android',
         deviceName: '25dd7961611c7ece',
-        app: "#{PROJECT_DIR}/resources/wikipedia.apk"
+        app: "#{PROJECT_DIR}/resources/walmart.apk",
     }
 }
 
